@@ -1,0 +1,3 @@
+﻿print ("我的第一个 Git + Python项目")
+
+print ("I am learning to use Git!")
